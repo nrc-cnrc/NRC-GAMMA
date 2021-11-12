@@ -46,7 +46,7 @@ The cropped images only show the dial region. **Figure 3** shows a sample gas me
 
 |__Figure 3.__ Sample image captured at night, a) raw image, b) left dial cropped image, c) right dial cropped image|
 |:------------------------:|
-|![(figure/sample_image.png)]|
+|![](figure/sample_image.png)|
 
 ## 1.4. Annotation process in brief
 To annotate and label images in the NRC-GAMMA data set, we used Amazon Mechanical Turk (MTurk). We defined and followed a systematic approach to label the images. Our defined 
