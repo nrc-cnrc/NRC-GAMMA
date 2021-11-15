@@ -1,0 +1,28 @@
+                              NRC-GAMMA-1.0
+                       Gas Meter Image Dataset 1.0
+
+         Copyright (C) 2021, National Research Council of Canada.
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+                       Intent of our licensing choice
+
+We chose the license CC-BY-4.0 because it allows derivative works, such as
+automatic meter reading or more general digitization of circular dials, while
+requiring that any derivative work convey our full Copyright, disclaimer and
+license statement, and a description of changes you make. Please include this
+LICENSE file and the accompanying ReadMe.md file in any derivative work of this
+work.
+
+You are encouraged to work with this dataset to train image classifiers or any
+other computer vision technology.
+
+You are encouraged to work with this dataset to improve on image segmentation, 
+classification, time series analysis, machine learning, etc.
+
+Any work using this dataset should cite the following paper:
+   Ashkan Ebadi, Patrick Paul, Sofia Auer, and Stephane Tremblay. NRC-GAMMA: 
+   Introducing a Novel Large Gas Meter Image Dataset. Submitted to XYZ 2021.
