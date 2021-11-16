@@ -1,1 +1,0 @@
-# NRC-GAMMA
