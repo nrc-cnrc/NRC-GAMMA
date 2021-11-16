@@ -82,27 +82,30 @@ intelligent, and reproducible automatic gas meter reading solutions. The NRC-GAM
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 
-# 3. Core NRC-GAMMA team
+# 3. Getting the dataset
+The NRC-GAMMA dataset is being made public on the National Research Council of Canada [NRC Digital Repository](https://nrc-digital-repository.canada.ca/eng/home/collection/nrc-research-data/) under the "research data" section.
+
+# 4. Core NRC-GAMMA team
 * Patrick Paul (patrick.paul@nrc-cnrc.gc.ca)
 * Sofia Auer (sofia.auer@nrc-cnrc.gc.ca)
 * Stephane Tremblay (stephane.tremblay@nrc-cnrc.gc.ca)
 * Ashkan Ebadi (ashkan.ebadi@nrc-cnrc.gc.ca)
 
 
-# 4. Issues
+# 5. Issues
 After reading the ReadMe file and past/current issues use the [issue tracker](https://github.com/nrc-cnrc/NRC-GAMMA/issues) to report genuine bugs,
  mistakes or even small typos in the NRC-GAMMA project files. The tracker lets you browse and search all documented issues, comment on open issues, and track their progress. 
  Note that issues are not meant for technical support; open an issue only for an error which is precise and reproducible.
 
 
-# 5. Contributing
+# 6. Contributing
 You can contribute to the NRC-GAMMA initiative by providing/adding more data/data sources, building intelligent models using the dataset, implementing new features and
  functionalities in the scripts, correcting errors, or even improving documentation. Feel free to submit small corrections and contributions as issues in the
  [issue tracker](https://github.com/nrc-cnrc/NRC-GAMMA/issues). For more extensive contributions, familiarize yourself with git and github, work 
  on your own NRC-GAMMA fork and submit your changes via a pull request.
 
 
-# 6. Citing this work
+# 7. Citing this work
 Please consider citing the following [paper](https://arxiv.org/pdf/2111.06827) when using the NRC-GAMMA dataset:
 
 ```
