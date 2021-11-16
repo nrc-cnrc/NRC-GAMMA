@@ -81,16 +81,6 @@ intelligent, and reproducible automatic gas meter reading solutions. The NRC-GAM
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-We chose the license CC-BY-4.0 because it allows derivative works, such as
-automatic meter reading or more general digitization of circular dials, while
-requiring that any derivative work convey our full Copyright, disclaimer and
-license statement, and a description of changes you make. Please include this
-LICENSE file and the accompanying ReadMe.md file in any derivative work of this
-work.
-
-You are encouraged to work with this dataset to train image classifiers or any
-other computer vision technology, including but not limited to image segmentation, 
-classification, time series analysis, machine learning, etc.
 
 # 3. Core NRC-GAMMA team
 * Patrick Paul (patrick.paul@nrc-cnrc.gc.ca)
