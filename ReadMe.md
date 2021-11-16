@@ -78,6 +78,8 @@ Our goal is to encourage broad adoption and contribution to this project and we 
 intelligent, and reproducible automatic gas meter reading solutions. The NRC-GAMMA is an open-source open-access dataset under the terms of the 
 [Creative Commons Attribution 4.0 International License][cc-by]. Please review the LICENCE document for terms. 
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+
 We chose the license CC-BY-4.0 because it allows derivative works, such as
 automatic meter reading or more general digitization of circular dials, while
 requiring that any derivative work convey our full Copyright, disclaimer and
