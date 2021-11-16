@@ -70,7 +70,7 @@ The high-level annotation logic for a given dial image is based on two iteration
 		iv.	If the given image has a tie in the mode, whereby the two modes are adjacent, then the image is labelled with the 2 adjacent modes, and the process is terminated.
 	v.	All other images not labelled at this point, are visually inspected and labelled accordingly.
 
-Please refer to [NRC-GAMMA paper](paper_link) for more details.
+Please refer to [NRC-GAMMA paper](https://arxiv.org/pdf/2111.06827) for more details.
 
 
 # 2. License
@@ -100,13 +100,13 @@ You can contribute to the NRC-GAMMA initiative by providing/adding more data/dat
 
 
 # 6. Citing this work
-Please consider citing the following [paper](link) when using the NRC-GAMMA dataset:
+Please consider citing the following [paper](https://arxiv.org/pdf/2111.06827) when using the NRC-GAMMA dataset:
 
 ```
 @article{NRC-GAMMA,
   title={NRC-GAMMA: Introducing a Novel Large Gas Meter Image Dataset},
   author={Ebadi, Ashkan and Paul, Patrick and Auer, Sofia and Tremblay, Stéphane},
-  journal={arXiv},
+  journal={arXiv:2111.06827},
   year={2021}
 }
 ```	
