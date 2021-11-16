@@ -73,12 +73,13 @@ The high-level annotation logic for a given dial image is based on two iteration
 Please refer to [NRC-GAMMA paper](https://arxiv.org/pdf/2111.06827) for more details.
 
 
-# 2. License 
+# 2. License [![CC BY 4.0][cc-by-image]][cc-by]
 Our goal is to encourage broad adoption and contribution to this project and we hope the dataset helps the research community to design and implement accurate, innovative, 
 intelligent, and reproducible automatic gas meter reading solutions. The NRC-GAMMA is an open-source open-access dataset under the terms of the 
 [Creative Commons Attribution 4.0 International License][cc-by]. Please review the LICENCE document for terms. 
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 We chose the license CC-BY-4.0 because it allows derivative works, such as
 automatic meter reading or more general digitization of circular dials, while
