@@ -83,7 +83,7 @@ intelligent, and reproducible automatic gas meter reading solutions. The NRC-GAM
 
 
 # 3. Getting the dataset
-The [NRC-GAMMA dataset](https://nrc-digital-repository.canada.ca/eng/view/object/?id=93f339ee-4365-42d5-b262-50db531993cf) is being made public on the National Research Council of Canada [NRC Digital Repository](https://nrc-digital-repository.canada.ca/eng/home/collection/nrc-research-data/) under the "research data" section.
+The [NRC-GAMMA dataset](https://doi.org/10.4224/3c8s-z290) is being made public on the National Research Council of Canada [NRC Digital Repository](https://nrc-digital-repository.canada.ca/eng/home/collection/nrc-research-data/) under the "research data" section.
 
 # 4. Core NRC-GAMMA team
 * Patrick Paul (patrick.paul@nrc-cnrc.gc.ca)
