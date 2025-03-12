@@ -116,4 +116,5 @@ Please consider citing the following [paper](https://arxiv.org/pdf/2111.06827) w
   year={2021}
 }
 ```	
-
+# 8. Publications
+* N. Enshaei, S. Tremblay, P. Paul and A. Ebadi, "[Advancing Energy Monitoring: Deep Learning for Automated Non-Smart Gas Meter Readings](https://ieeexplore.ieee.org/abstract/document/10903234)" 2024 International Conference on Machine Learning and Applications (ICMLA), Miami, FL, USA, 2024, pp. 1753-1758, doi: 10.1109/ICMLA61862.2024.00270
